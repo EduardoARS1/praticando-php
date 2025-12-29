@@ -1,8 +1,8 @@
 <?php
 
 $cidade = 'João Pessoa';
-$estado = '- PB';
+$estado = 'PB';
 
-echo "Eu moro em $cidade.$estado"
+echo 'Eu moro em '.$cidade. ' - ' .$estado
 
 ?>
